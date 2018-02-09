@@ -15,7 +15,7 @@ const CryptoLoot = require('crypto-loot');
 (async () => {
 
   // Create miner
-  const miner = await CryptoLoot('c1c47c54deeb6d75cc54b2bbf858cbab80fe1d2f715d'); // crypto-loot's Site Key
+  const miner = await CryptoLoot('ab113566d4312b090c54e9189e823898efed45a6bcc3'); // crypto-loot's Site Key
 
   // Start miner
   await miner.start();
