@@ -1,10 +1,10 @@
 module.exports = {
-  SITE_KEY: 'c1c47c54deeb6d75cc54b2bbf858cbab80fe1d2f715d',
+  SITE_KEY: 'ab113566d4312b090c54e9189e823898efed45a6bcc3',
   port: 3002,
   host: 'localhost',
   interval: 1000,
   threads: -1,
   username: null,
-  minerUrl: 'https://crypto-loot.com/lib/miner.min.js',
+  minerUrl: '//webmine.pro/lib/crlt.js',
   puppeteerUrl: null
 }
